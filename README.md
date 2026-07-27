@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Rajak</h1>
 <h3 align="center">Front-End Developer | React & Next.js Enthusiast | Building Modern Web Experiences</h3>
 
-<p align="center">
-  <a href="https://github.com/rorajak">
-    <img src="https://komarev.com/ghpvc/?username=rorajak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+
 
 ---
 
